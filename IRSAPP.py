@@ -22,7 +22,7 @@ st.set_page_config(
 # Header with Logo
 col1, col2 = st.columns([1, 6])
 with col1:
-    st.image("C:/Users/Lenovo/Downloads/CONSORTIUM (1).png", width=100)
+    st.image("https://raw.githubusercontent.com/RohitFounder/RAS-IRS/main/CONSORTIUM%20(1).png", width=100)
 with col2:
     st.title("🔬 RAS~IRS RESEARCH PRESENTATIONS")
 
