@@ -28,7 +28,7 @@ with col2:
 
 # Judge Selection
 judges = {
-    "Mentors": ["Dr. Indraneil Mukherjee", "Dr. Vamsi Chakradhar"],
+    "Mentors": ["Dr. Indraneil Mukherjee", "Dr. Sandeep Sainathan", "Dr. Vamsi Chakradhar"],
     "Peers": ["Dr. Rohit Ganduboina", "Dr. Palak Dutta", "Dr. Keerthi Palagati"]
 }
 judge = st.selectbox("Select Your Name", sum(judges.values(), []))
